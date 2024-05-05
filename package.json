@@ -1,0 +1,16 @@
+{
+  "name": "staking-dapp-tea",
+  "version": "1.0.0",
+  "description": "Staking DApp Swan Proxima Testnet",
+  "main": "index.js",
+  "keywords": [
+    "staking",
+    "dapp",
+    "network",
+    "swan",
+    "proxima",
+    "testnet"
+  ],
+  "author": "Amarudinn",
+  "license": "MIT"
+}
