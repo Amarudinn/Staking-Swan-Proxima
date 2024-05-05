@@ -1,5 +1,5 @@
 {
-  "name": "staking-dapp-tea",
+  "name": "staking-dapp",
   "version": "1.0.0",
   "description": "Staking DApp Swan Proxima Testnet",
   "main": "index.js",
